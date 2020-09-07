@@ -34,3 +34,6 @@
 
 - HTML, CSS, JS(es6+)
 - React, SASS
+
+## 데모 영상
+https://youtu.be/b0DtJEaHy4w
